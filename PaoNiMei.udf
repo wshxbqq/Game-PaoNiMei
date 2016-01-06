@@ -1,0 +1,24 @@
+<UserData Version="2.3.1.2">
+  <Properties>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Windows" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="Layer_Start.csd" />
+          <FilePathData Path="Layer_Success.csd" />
+          <FilePathData Path="Layer_Question.csd" />
+          <FilePathData Path="Layer_Fail.csd" />
+          <FilePathData Path="MainScene.csd" />
+          <FilePathData Path="Layer_GameOver.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="Layer_Success.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

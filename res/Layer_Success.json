@@ -1,0 +1,280 @@
+{
+  "ID": "43d40bc2-4b94-4d16-9fd0-7bc66cc0d044",
+  "Version": "2.3.1.2",
+  "Name": "Layer_Success",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 33,
+        "Children": [
+          {
+            "BackColorAlpha": 135,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 35,
+            "ActionTag": 2081681513,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_Color",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "R/brown_BG.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 56,
+            "Scale9OriginY": 98,
+            "Scale9Width": 58,
+            "Scale9Height": 101,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 319.118,
+              "Y": 572.3721
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4986,
+              "Y": 0.5038
+            },
+            "PreSize": {
+              "X": 0.8719,
+              "Y": 0.7368
+            },
+            "LeftMargin": 40.118,
+            "RightMargin": 41.882,
+            "TopMargin": 145.1279,
+            "BottomMargin": 153.8721,
+            "Tag": 17,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "R/right1.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 351,
+                "Scale9Height": 128,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 285.0229,
+                  "Y": 653.5198
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 145,
+                  "B": 140
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5108,
+                  "Y": 0.7808
+                },
+                "PreSize": {
+                  "X": 0.629,
+                  "Y": 0.1529
+                },
+                "LeftMargin": 109.5229,
+                "RightMargin": 97.4771,
+                "TopMargin": 119.4802,
+                "BottomMargin": 589.5198,
+                "Tag": 5,
+                "ActionTag": -1772559213,
+                "Size": {
+                  "X": 351.0,
+                  "Y": 128.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "R/BlingPopInterface2.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 200,
+                "Scale9Height": 167,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 280.8893,
+                  "Y": 454.3807
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5034,
+                  "Y": 0.5429
+                },
+                "PreSize": {
+                  "X": 0.3125,
+                  "Y": 0.147
+                },
+                "LeftMargin": 180.8893,
+                "RightMargin": 177.1107,
+                "TopMargin": 299.1193,
+                "BottomMargin": 370.8807,
+                "Tag": 72,
+                "ActionTag": -811933953,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 167.0
+                },
+                "Name": "Image_5",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 48,
+                "ButtonText": "下一关",
+                "TextColor": {},
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "R/common_bt_green_l3.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 64,
+                "Scale9Height": 70,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 271.1448,
+                  "Y": 178.3175
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4859,
+                  "Y": 0.213
+                },
+                "PreSize": {
+                  "X": 0.4552,
+                  "Y": 0.1099
+                },
+                "LeftMargin": 144.1448,
+                "RightMargin": 159.8552,
+                "TopMargin": 612.6825,
+                "BottomMargin": 132.3175,
+                "Tag": 19,
+                "ActionTag": -1958726284,
+                "Size": {
+                  "X": 254.0,
+                  "Y": 92.0
+                },
+                "Name": "Button_Next",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 63443179,
+            "Size": {
+              "X": 558.0,
+              "Y": 837.0
+            },
+            "Name": "Image_Panel",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "R/BlingPopInterface2.png",
+        "R/brown_BG.png",
+        "R/common_bt_green_l3.png",
+        "R/right1.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,188 @@
+{
+  "ID": "d6213107-b7d8-4edd-bfae-0d4ca2548b30",
+  "Version": "2.3.1.2",
+  "Name": "Layer_Start",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 25,
+        "Children": [
+          {
+            "BackColorAlpha": 135,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 32,
+            "ActionTag": -33543812,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_Color",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "R/bg_title.png",
+              "Plist": ""
+            },
+            "Scale9Width": 465,
+            "Scale9Height": 166,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 316.6945,
+              "Y": 859.9625
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4948,
+              "Y": 0.757
+            },
+            "PreSize": {
+              "X": 0.7266,
+              "Y": 0.1461
+            },
+            "LeftMargin": 84.1945,
+            "RightMargin": 90.8055,
+            "TopMargin": 193.0375,
+            "BottomMargin": 776.9625,
+            "Tag": 33,
+            "ActionTag": -797819797,
+            "Size": {
+              "X": 465.0,
+              "Y": 166.0
+            },
+            "Name": "Image_Start_Title",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "R/btnUnpause.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 94,
+            "Scale9Height": 102,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 323.9958,
+              "Y": 450.6856
+            },
+            "Scale": {
+              "ScaleX": 2.611,
+              "ScaleY": 2.611
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5062,
+              "Y": 0.3967
+            },
+            "PreSize": {
+              "X": 0.1937,
+              "Y": 0.1092
+            },
+            "LeftMargin": 261.9958,
+            "RightMargin": 254.0042,
+            "TopMargin": 623.3144,
+            "BottomMargin": 388.6856,
+            "Tag": 34,
+            "ActionTag": -113504110,
+            "Size": {
+              "X": 124.0,
+              "Y": 124.0
+            },
+            "Name": "Button_Start",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "R/bg_title.png",
+        "R/btnUnpause.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}
